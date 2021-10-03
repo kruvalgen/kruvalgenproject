@@ -1,7 +1,6 @@
 package animals;
 
-import Food.Food;
-import animals.interfaces.Voice;
+import food.Food;
 
 public abstract class Animal {
 

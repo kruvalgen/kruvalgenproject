@@ -1,23 +1,34 @@
 package animals.model;
 
-import Food.Food;
-import animals.Herbivore;
+import animals.Carnivorous;
 import animals.interfaces.Run;
 import animals.interfaces.Swim;
 import animals.interfaces.Voice;
 
-public class Elephant extends Herbivore implements Swim, Voice, Run {
+public class Elephant extends Carnivorous implements Voice, Run, Swim {
 
+    private  String name;
     private String voice;
 
-    @Override
-    public String toString() {
-        return "Elephant" +
-                " say: " + voice;
+    public Elephant() {
     }
 
-    public Elephant(String voice) {
+    public Elephant(String name, String voice) {
+        this.name = name;
         this.voice = voice;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getVoice() {
+        return voice;
+    }
+
+    @Override
+    public String voice() {
+        return getVoice();
     }
 
     @Override
@@ -28,15 +39,5 @@ public class Elephant extends Herbivore implements Swim, Voice, Run {
     @Override
     public void swim() {
 
-    }
-
-    @Override
-    public String voice() {
-        return null;
-    }
-
-    @Override
-    public void eat(Food food) {
-        super.eat(food);
     }
 }

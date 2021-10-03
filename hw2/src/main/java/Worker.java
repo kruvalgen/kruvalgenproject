@@ -1,18 +1,15 @@
-import Food.Food;
+import food.Food;
 import animals.Animal;
 import animals.interfaces.Voice;
-import animals.model.Pony;
 
 public class Worker {
 
-
-    public void feed(Food food, Animal animal) {
-        System.out.println("I fed ");
-
+    public void feed(Food food, Animal animal){
+        animal.eat(food);
     }
 
-    public void getVoice(Animal animal) {
-        System.out.println("Animal " + animal);
+    public void getVoice(Voice voice){
+        System.out.println("Animal say: " + voice.voice());
     }
 
 }

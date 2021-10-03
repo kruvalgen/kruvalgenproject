@@ -6,14 +6,34 @@
   <component name="ChangeListManager">
     <list default="true" id="47b6d95a-e7a6-44c1-b93d-1a46216336be" name="Default Changelist" comment="hw2">
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kruvalgenproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kruvalgenproject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/atHomeWorks.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hw2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/main/java/Food/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/main/java/food/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/main/java/Food/Grass.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/main/java/food/Grass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/main/java/Food/Meet.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/main/java/food/Meat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/main/java/Food/model/Carrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/main/java/food/model/Carrot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/main/java/Food/model/Corn.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/main/java/food/model/Corn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/main/java/Food/model/Cucumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/main/java/food/model/Cucumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/main/java/Food/model/MeetBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/main/java/food/model/MeatBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/main/java/Food/model/MeetChips.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/main/java/food/model/MeatChips.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/main/java/Food/model/RawMeet.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/main/java/food/model/RawMeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/main/java/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/main/java/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/main/java/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/main/java/Zoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/main/java/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/main/java/animals/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/main/java/animals/Carnivorous.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/main/java/animals/Carnivorous.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/main/java/animals/Herbivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/main/java/animals/Herbivore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/main/java/animals/model/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/main/java/animals/model/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/main/java/animals/model/Elephant.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/main/java/animals/model/Elephant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/main/java/animals/model/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/main/java/animals/model/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/main/java/animals/model/Pony.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/main/java/animals/model/Pony.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/main/java/animals/model/Racoon.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/main/java/animals/model/Racoon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2/src/main/java/animals/model/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/hw2/src/main/java/animals/model/Tiger.java" afterDir="false" />
     </list>
     <list id="80fd942e-091d-4a4d-b0ea-062cc9669c29" name="Revert &quot;hw2&quot;" comment="Revert &quot;hw2&quot;&#10;&#10;This reverts commit a7188b68">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
@@ -49,9 +69,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.152439" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -103,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633168849290</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hw2">
+      <created>1633169929598</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1633169929598</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +139,11 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
